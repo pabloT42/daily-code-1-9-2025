@@ -1,0 +1,7 @@
+#function definition
+def circleArea(r):
+    return r * r * 3.14
+
+
+result = circleArea(5) #funtion call
+print("the area of this circle is:", result)
