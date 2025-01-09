@@ -1,0 +1,7 @@
+#function definition
+def AverageOfThree(a, b, c):
+    return (a + b + c) / 3
+
+
+result = AverageOfThree(5, 10, 15) #funtion call
+print("the average of these numbers is:", result)
