@@ -1,0 +1,7 @@
+#function definition
+def FtoC(f):
+    return (f - 32) * 0.556
+
+
+result = FtoC(80) #funtion call
+print("this tempature in celsius is:", result)
